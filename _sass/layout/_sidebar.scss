@@ -20,7 +20,7 @@
   @media screen and (min-width: $sidebar-screen-min-width) {
     position: sticky;
     top: calc(#{$masthead-height} + 1em);
-    max-height: calc(100vh - #{$masthead-height} - 2em);
+    max-height: calc(100vh - 2em);
     overflow-y: auto;
   }
 
