@@ -9,10 +9,11 @@ author_profile: true
 
 A list of the main pages on the site. For you robots out there, there is an [XML version](/sitemap.xml) available for digesting as well.
 
-{% assign allowed = "/about/,/research/,/cv/" | split: "," %}
+{% assign allowed = "/research/,/cv/" | split: "," %}
 {% assign items = site.pages | concat: site.documents %}
 {% for item in items %}
   {% assign keep = false %}
+  {% if item.url == "/" %}{% assign keep = true %}{% endif %}
   {% for prefix in allowed %}
     {% assign plen = prefix | size %}
     {% assign head = item.url | slice: 0, plen %}
