@@ -11,5 +11,5 @@ redirect_from:
         width="100%" height="100%"
         style="height: 90vh;">
   <p>Seems like your browser doesn't support embedded PDFs.
-  <a href="/files/cv.pdf" download="Eldad_Tal-Shir_CV.pdf">Download my CV instead</a>.</p>
+  <a href="/files/Eldad_Tal-Shir_CV.pdf" download="Eldad_Tal-Shir_CV.pdf">Download my CV instead</a>.</p>
 </object>
