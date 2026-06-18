@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-<object data="/files/cv.pdf" type="application/pdf"
+<object data="/files/Eldad_Tal-Shir_CV.pdf" type="application/pdf"
         width="100%" height="100%"
         style="height: 90vh;">
   <p>Seems like your browser doesn't support embedded PDFs.
