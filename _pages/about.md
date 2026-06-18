@@ -11,4 +11,4 @@ I'm a PhD candidate in the Decision Sciences department at INSEAD. I study the m
 
 To answer these questions, I use a mix of behavioral experiments and computational methods with particular emphasis on natural language processing, deep learning, and explainable AI. You can read more about my projects on the [Research](/research/) page.
 
-You can find my [CV](/files/cv.pdf) here, and you can reach me at *eldad [dot] talshir [at] insead [dot] edu*.
+You can find my [CV](/cv/) here, and you can reach me at *eldad [dot] talshir [at] insead [dot] edu*.
